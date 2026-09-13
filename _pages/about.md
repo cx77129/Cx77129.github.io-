@@ -7,20 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computational Communication at Nanjing University.
+I am a Master's student in Journalism and Communication at Nanjing University, with a concentration in Computational Communication.
 
 ## About Me
 
-I am currently pursuing my Master's degree in Computational Communication at Nanjing University. My academic interests center on the intersection of communication, computational methods, and social science.
+I am currently pursuing a Master's degree in Journalism and Communication at Nanjing University, with a concentration in Computational Communication. My research interests lie at the intersection of communication, computational methods, and social science.
 
 ## Research Interests
 
 - Computational Communication
 - Computational Social Science
-- Digital Media and Communication
 - Natural Language Processing
 
 ## Education
 
 **Nanjing University**  
-Master's Student in Computational Communication
+Master's Student in Journalism and Communication  
+*Concentration: Computational Communication*
+
+**Communication University of China**  
+B.A. in Chinese Language
