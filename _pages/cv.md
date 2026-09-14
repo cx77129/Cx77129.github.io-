@@ -34,6 +34,5 @@ Participated in media production, interviews, filming, live broadcasting, and fi
 ## Skills
 
 **Programming & Data Analysis:** Python, R, SPSS  
-**Research Methods:** Survey Research, Data Analysis, Natural Language Processing  
-**Languages:** Chinese (Native), English*Intern, 2024*  
-
+**Methods:** Survey Research, Statistical Analysis, Text Analysis  
+**Languages:** Chinese (Native), English
