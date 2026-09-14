@@ -130,3 +130,54 @@ body {
 .page {
   padding-bottom: 3rem;
 }
+/* =========================
+   Deep Blue Theme
+   ========================= */
+
+$academic-blue: #1F4E79;
+$academic-blue-dark: #163A5C;
+$academic-blue-light: #EAF1F7;
+
+/* Links */
+a {
+  color: $academic-blue;
+}
+
+a:hover {
+  color: $academic-blue-dark;
+}
+
+/* Main page title */
+.page__title {
+  color: #303842;
+}
+
+/* Section headings */
+.page__content h2 {
+  color: $academic-blue-dark;
+  border-bottom: 1px solid #dce5ed;
+}
+
+/* Top navigation */
+.masthead__menu-item a {
+  color: #3f4650;
+}
+
+.masthead__menu-item a:hover {
+  color: $academic-blue;
+}
+
+/* Sidebar name */
+.author__name {
+  color: #303842;
+}
+
+/* Sidebar links/icons */
+.author__urls a:hover {
+  color: $academic-blue;
+}
+
+/* Selection color */
+::selection {
+  background: $academic-blue-light;
+}
