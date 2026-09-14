@@ -295,3 +295,113 @@ html body {
 .page__footer {
   color: #6b747c;
 }
+/* =====================================
+   Sidebar & Navigation Refinement
+   ===================================== */
+
+/* Sidebar overall spacing */
+.sidebar {
+  padding-top: 1.2rem;
+}
+
+/* Avatar sizing */
+.author__avatar img {
+  max-width: 150px !important;
+  border-radius: 50% !important;
+  box-shadow: 0 6px 20px rgba(31, 78, 121, 0.16) !important;
+}
+
+/* Name */
+.author__name {
+  font-size: 1.25rem !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.45rem !important;
+}
+
+/* Bio */
+.author__bio {
+  font-size: 0.95rem !important;
+  line-height: 1.55 !important;
+  color: #5f6b75 !important;
+  margin-bottom: 0.9rem !important;
+}
+
+/* Sidebar metadata */
+.author__urls li {
+  margin-bottom: 0.35rem;
+}
+
+.author__urls a {
+  transition: color 0.2s ease;
+}
+
+/* Top navigation bar */
+.masthead {
+  border-bottom: 1px solid #e6edf3;
+  box-shadow: 0 2px 8px rgba(20, 45, 70, 0.03);
+}
+
+/* Site title */
+.site-title {
+  font-weight: 700 !important;
+  letter-spacing: -0.02em;
+  color: #163a5c !important;
+}
+
+/* Navigation spacing */
+.greedy-nav .visible-links li {
+  margin-left: 1.2rem;
+}
+
+/* Navigation links */
+.greedy-nav .visible-links a {
+  font-weight: 500 !important;
+  padding-bottom: 0.5rem;
+}
+
+/* Navigation hover line */
+.greedy-nav .visible-links a:before {
+  height: 2px !important;
+  background: #1f4e79 !important;
+}
+/* =====================================
+   Content Refinement
+   ===================================== */
+
+/* Intro paragraph */
+.page__content > p:first-of-type {
+  font-size: 1.06rem;
+  line-height: 1.75;
+  color: #46525c;
+  max-width: 760px;
+}
+
+/* Section spacing */
+.page__content h2 {
+  margin-top: 2.8rem !important;
+}
+
+/* Research interests list */
+.page__content ul {
+  padding-left: 1.25rem;
+}
+
+.page__content li {
+  line-height: 1.6;
+}
+
+/* Education / experience blocks */
+.page__content p strong {
+  color: #163a5c;
+}
+
+/* Italic secondary information */
+.page__content em {
+  color: #6a7680;
+  font-style: italic;
+}
+
+/* Horizontal rhythm */
+.page__content {
+  max-width: 820px;
+}
