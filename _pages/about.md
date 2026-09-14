@@ -9,11 +9,13 @@ redirect_from:
 
 I am a Master's student in Journalism and Communication at Nanjing University, with a concentration in Computational Communication. My research interests lie at the intersection of communication, computational methods, and social science.
 
-## Research Interests
+<h2>Research Interests</h2>
 
-- Computational Communication
-- Computational Social Science
-- Natural Language Processing
+<div class="research-tags">
+  <span>Computational Communication</span>
+  <span>Computational Social Science</span>
+  <span>Natural Language Processing</span>
+</div>
 
 ## Education
 
